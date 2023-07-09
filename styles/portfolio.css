@@ -157,9 +157,37 @@ main {
     color: #474747;
     font-size: 30px;
     font-weight: 700px;
+    text-align: start;
 }
 
 .resume-contaiiner {
     display: flex;
     justify-content: space-between;
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700px;
+    text-align: start;
+}
+
+.resume-item-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600px;
+    text-align: start;
+
+}
+
+.resume-item-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400px;
+    text-align: start;
+    width: 511px;
+}
+
+.download-cv {
+    padding: 113px;
 }
